@@ -1,1 +1,1 @@
-# Prac1-Tipolog-a-y-ciclo-de-vida-de-los-datos
+# Prac1-Tipologia-y-ciclo-de-vida-de-los-datos
